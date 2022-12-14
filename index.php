@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>PipBoy</title>
     <link rel="icon" href="images/boy.ico">
-    <link rel="stylesheet" href="sass/main.css">
+    <link rel="stylesheet" href="scss/main.css">
   </head>
   <body>
     <div class="container">
